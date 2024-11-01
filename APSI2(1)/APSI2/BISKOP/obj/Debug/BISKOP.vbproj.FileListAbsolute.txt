@@ -1,0 +1,42 @@
+C:\Users\andre\OneDrive\Desktop\APSI2\BISKOP\bin\Debug\BISKOP.exe.config
+C:\Users\andre\OneDrive\Desktop\APSI2\BISKOP\bin\Debug\BISKOP.exe
+C:\Users\andre\OneDrive\Desktop\APSI2\BISKOP\bin\Debug\BISKOP.pdb
+C:\Users\andre\OneDrive\Desktop\APSI2\BISKOP\bin\Debug\BISKOP.xml
+C:\Users\andre\OneDrive\Desktop\APSI2\BISKOP\obj\Debug\BISKOP.vbproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\APSI2\BISKOP\obj\Debug\BISKOP.Form1.resources
+C:\Users\andre\OneDrive\Desktop\APSI2\BISKOP\obj\Debug\BISKOP.Form2.resources
+C:\Users\andre\OneDrive\Desktop\APSI2\BISKOP\obj\Debug\BISKOP.Resources.resources
+C:\Users\andre\OneDrive\Desktop\APSI2\BISKOP\obj\Debug\BISKOP.vbproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Desktop\APSI2\BISKOP\obj\Debug\BISKOP.vbproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\APSI2\BISKOP\obj\Debug\BISKOP.exe
+C:\Users\andre\OneDrive\Desktop\APSI2\BISKOP\obj\Debug\BISKOP.xml
+C:\Users\andre\OneDrive\Desktop\APSI2\BISKOP\obj\Debug\BISKOP.pdb
+C:\Users\andre\OneDrive\Desktop\APSI2\BISKOP\obj\Debug\BISKOP.Form3.resources
+C:\Users\andre\OneDrive\Desktop\APSI2\BISKOP\obj\Debug\BISKOP.Form4.resources
+C:\Users\andre\OneDrive\Desktop\APSI2\BISKOP\obj\Debug\BISKOP.Form5.resources
+C:\Users\andre\OneDrive\Desktop\APSI2\BISKOP\obj\Debug\BISKOP.Form6.resources
+C:\Users\andre\OneDrive\Desktop\APSI2\BISKOP\obj\Debug\BISKOP.Form7.resources
+C:\Users\andre\OneDrive\Desktop\APSI2\BISKOP\obj\Debug\BISKOP.Form9.resources
+C:\Users\andre\OneDrive\Desktop\APSI2\BISKOP\obj\Debug\BISKOP.Form10.resources
+C:\Users\andre\OneDrive\Desktop\APSI2\BISKOP\obj\Debug\BISKOP.Form11.resources
+C:\Users\Li Wei\Downloads\APSI2(1)\APSI2\BISKOP\bin\Debug\BISKOP.exe.config
+C:\Users\Li Wei\Downloads\APSI2(1)\APSI2\BISKOP\bin\Debug\BISKOP.exe
+C:\Users\Li Wei\Downloads\APSI2(1)\APSI2\BISKOP\bin\Debug\BISKOP.pdb
+C:\Users\Li Wei\Downloads\APSI2(1)\APSI2\BISKOP\bin\Debug\BISKOP.xml
+C:\Users\Li Wei\Downloads\APSI2(1)\APSI2\BISKOP\obj\Debug\BISKOP.vbproj.AssemblyReference.cache
+C:\Users\Li Wei\Downloads\APSI2(1)\APSI2\BISKOP\obj\Debug\BISKOP.Form1.resources
+C:\Users\Li Wei\Downloads\APSI2(1)\APSI2\BISKOP\obj\Debug\BISKOP.Form10.resources
+C:\Users\Li Wei\Downloads\APSI2(1)\APSI2\BISKOP\obj\Debug\BISKOP.Form11.resources
+C:\Users\Li Wei\Downloads\APSI2(1)\APSI2\BISKOP\obj\Debug\BISKOP.Form2.resources
+C:\Users\Li Wei\Downloads\APSI2(1)\APSI2\BISKOP\obj\Debug\BISKOP.Form3.resources
+C:\Users\Li Wei\Downloads\APSI2(1)\APSI2\BISKOP\obj\Debug\BISKOP.Form4.resources
+C:\Users\Li Wei\Downloads\APSI2(1)\APSI2\BISKOP\obj\Debug\BISKOP.Form5.resources
+C:\Users\Li Wei\Downloads\APSI2(1)\APSI2\BISKOP\obj\Debug\BISKOP.Form6.resources
+C:\Users\Li Wei\Downloads\APSI2(1)\APSI2\BISKOP\obj\Debug\BISKOP.Form7.resources
+C:\Users\Li Wei\Downloads\APSI2(1)\APSI2\BISKOP\obj\Debug\BISKOP.Form9.resources
+C:\Users\Li Wei\Downloads\APSI2(1)\APSI2\BISKOP\obj\Debug\BISKOP.Resources.resources
+C:\Users\Li Wei\Downloads\APSI2(1)\APSI2\BISKOP\obj\Debug\BISKOP.vbproj.GenerateResource.cache
+C:\Users\Li Wei\Downloads\APSI2(1)\APSI2\BISKOP\obj\Debug\BISKOP.vbproj.CoreCompileInputs.cache
+C:\Users\Li Wei\Downloads\APSI2(1)\APSI2\BISKOP\obj\Debug\BISKOP.exe
+C:\Users\Li Wei\Downloads\APSI2(1)\APSI2\BISKOP\obj\Debug\BISKOP.xml
+C:\Users\Li Wei\Downloads\APSI2(1)\APSI2\BISKOP\obj\Debug\BISKOP.pdb

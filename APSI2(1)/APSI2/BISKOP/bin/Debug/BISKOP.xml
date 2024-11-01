@@ -1,0 +1,361 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BISKOP
+</name>
+</assembly>
+<members>
+<member name="T:BISKOP.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources._365">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.AAAA">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.AAAA1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.AAAA2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.AAAA3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.AAAA4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.AAAA5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.AAAA6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.BACKGORUND">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.button">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.button1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.eternal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.giphy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.giphy1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.logo2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.logo21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.logo22">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.logo23">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.logo24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.Premium_Photo___Cinema_seats_still_life">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.Screenshot_2023_10_05_201442">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.simpson">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BISKOP.My.Resources.Resources.TEKOTOK">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet.PelangganDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet.PembelianDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet.PelangganRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet.PembelianRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet.PelangganRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet.PembelianRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSetTableAdapters.PelangganTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSetTableAdapters.PembelianTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:BISKOP.bioskopDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(BISKOP.bioskopDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:BISKOP.bioskopDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(BISKOP.bioskopDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:BISKOP.bioskopDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(BISKOP.bioskopDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:BISKOP.bioskopDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:BISKOP.bioskopDataSetTableAdapters.TableAdapterManager.UpdateAll(BISKOP.bioskopDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet1.FilmDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet1.PelangganDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet1.PembayaranDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet1.PembelianDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet1.FilmRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet1.PelangganRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet1.PembayaranRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet1.PembelianRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet1.FilmRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet1.PelangganRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet1.PembayaranRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet1.PembelianRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet1TableAdapters.FilmTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet1TableAdapters.PelangganTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet1TableAdapters.PembayaranTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet1TableAdapters.PembelianTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:BISKOP.bioskopDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(BISKOP.bioskopDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:BISKOP.bioskopDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(BISKOP.bioskopDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:BISKOP.bioskopDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(BISKOP.bioskopDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:BISKOP.bioskopDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:BISKOP.bioskopDataSet1TableAdapters.TableAdapterManager.UpdateAll(BISKOP.bioskopDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:BISKOP.bioskopDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
